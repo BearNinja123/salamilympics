@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt # plotting stuff
 import matplotlib.backends.backend_agg as agg # plt stuff
 import pandas as pd # reading and processing csv
 import numpy as np # matrix manipulation
-import pygame as pog # you've seen this in the Unit 2 Culminating Project...
+import pygame as pog # popup window
 import pygame_widgets as pogW # sliders, buttons, and textboxes
 import time, pylab, matplotlib # various stuff
 
