@@ -5,8 +5,8 @@ A curve fitting program I made for a math project. It uses the normal equation a
 ![Interactive Window](/images/window.png)
 
 Libraries:
-  Matplotlib
-  Numpy
-  Pandas
-  Pygame
-  Pygame Widgets
+- Matplotlib
+- Numpy
+- Pandas
+- Pygame
+- Pygame Widgets
